@@ -9,7 +9,7 @@ Para isso, este documento foi elaborado com o intuito de facilitar o entendiment
 ## Histórico de revisões
 
 Data        | Versão    | Descrição             | Autor
-------------|-----------|-----------------------|-------------
+:----------:|:---------:|:---------------------:|:-------------:
 14/08/2018  | 1.0       | Documento inicial     | Átila Souza
 16/08/2018  | 2.0       | Atualização           | Átila Souza
 17/08/2018  | 3.0       | Revisão               | Ana Carolina
