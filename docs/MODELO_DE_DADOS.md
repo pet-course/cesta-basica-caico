@@ -16,3 +16,5 @@ Data        | Versão    | Descrição             | Autor
 17/08/2018  | 4.0       | Correção              | Átila Souza
 21/08/2018  | 5.0       | Atualização           | Átila Souza
 23/03/2021  | 6.0       | Criação do markdown   | Bruno de Souza
+
+## Modelo Conceitual
