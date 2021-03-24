@@ -18,3 +18,5 @@ Data        | Versão    | Descrição             | Autor
 23/03/2021  | 6.0       | Criação do markdown   | Bruno de Souza
 
 ## Modelo Conceitual
+
+![Modelo Conceitual](https://github.com/pet-course/cesta-basica-caico/blob/main/docs/modelos/Modelo%20Conceitual.jpg)
