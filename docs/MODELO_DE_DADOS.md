@@ -40,3 +40,7 @@ Data        | Versão    | Descrição             | Autor
 * **Pesquisa:** pesquisas realizadas nos supermercados por alunos e professores.
 
 * **Log Atividades:** toda ação de modificação no banco de dados feita pelo professor, sejam elas (1) cadastrar/excluir produto ou supermercado, (2) aceitar/rejeitar alunos, devem constar nesta entidade para fins de auditoria.
+
+## Modelo de Dados
+
+![Modelo de Dados](https://github.com/pet-course/cesta-basica-caico/blob/main/docs/modelos/Modelo%20de%20Dados.jpg)
