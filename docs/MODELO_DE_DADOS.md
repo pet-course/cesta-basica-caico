@@ -108,3 +108,12 @@ nome_prod   | Determinante | Texto  | 100       | Nome do produto
 username    | Determinante | Texto  | 20        | Nome do usuário
 preco       | Simples   | Numérico  | -         | Preço do produto
 medida      | Simples   | Texto     | 2         | Medidas poderão ser: mL, L, g, Kg, Un
+
+### Entidade: Novo Produto Aluno
+
+Atributo    | Classe    | Domínio   | Tamanho   | Descrição
+------------|-----------|-----------|-----------|----------
+**id**      | Determinante | Numérico | -       | Chave única gerada pelo BD
+nome_prod   | Determinante | Texto  | 100       | Nome do produto
+matricula   | Determinante | Numérico | 10      | Número da matrícula do aluno. Identifica o usuário que fez o cadastro do novo produto na pesquisa. Só esse aluno terá acesso ao produto cadastrado.
+marca       | Simples   | Texto     | 50        | Marca ou Tipo do produto cadastrado pelo aluno
