@@ -89,3 +89,12 @@ bairro      | Simples   | Texto     | 100       | Bairro onde está localizado o
 cep         | Simples   | Texto     | 8         | CEP da cidade onde está localizado o  supermercado
 cidade      | Simples   | Texto     | 100       | Cidade onde está localizado o  supermercado
 estado      | Simples   | Texto     | 2         | Sigla do Estado onde está localizado o  supermercado
+
+### Entidade: Produto Professor
+
+Atributo    | Classe    | Domínio   | Tamanho   | Descrição
+------------|-----------|-----------|-----------|----------
+**id**      | Determinante | Numérico | -       | Chave única gerada pelo BD
+nome_prod   | Determinante | Texto  | 100       | Nome do produto
+siape       | Simples    | Numérico | 8         | Número do SIAPE do professor. Identifica o usuário que fez o cadastro do produto. Todos os usuários (professor e aluno) poderão visualizar o produto cadastrado
+marca       | Simples   | Texto     | 50        | Marca ou Tipo do produto
