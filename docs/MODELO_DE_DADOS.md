@@ -98,3 +98,13 @@ Atributo    | Classe    | Domínio   | Tamanho   | Descrição
 nome_prod   | Determinante | Texto  | 100       | Nome do produto
 siape       | Simples    | Numérico | 8         | Número do SIAPE do professor. Identifica o usuário que fez o cadastro do produto. Todos os usuários (professor e aluno) poderão visualizar o produto cadastrado
 marca       | Simples   | Texto     | 50        | Marca ou Tipo do produto
+
+### Entidade: Produto
+
+Atributo    | Classe    | Domínio   | Tamanho   | Descrição
+------------|-----------|-----------|-----------|----------
+**id**      | Determinante | Numérico | -       | Chave única gerada pelo BD
+nome_prod   | Determinante | Texto  | 100       | Nome do produto
+username    | Determinante | Texto  | 20        | Nome do usuário
+preco       | Simples   | Numérico  | -         | Preço do produto
+medida      | Simples   | Texto     | 2         | Medidas poderão ser: mL, L, g, Kg, Un
