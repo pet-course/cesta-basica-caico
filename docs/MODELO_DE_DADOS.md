@@ -65,3 +65,13 @@ Atributo    | Classe    | Domínio   | Tamanho   | Descrição
 username    | Determinante | Texto  | 20        | Nome do usuário
 matricula   | Determinante | Texto  | 10        | Número da Matrícula do aluno
 is_active   | Simples   | Booleano  | -         | **Verdadeiro** se aluno está ativo (aceito pelo professor)  ou **Falso** se aluno está inativo (não aceito ou rejeitado pelo professor)
+
+### Entidade: Professor
+
+Atributo    | Classe    | Domínio   | Tamanho   | Descrição
+------------|-----------|-----------|-----------|----------
+**id**      | Determinante | Numérico | -       | Chave única gerada pelo BD
+username    | Determinante | Texto  | 20        | Nome do usuário
+siape       | Determinante | Texto  | 8         | Número do SIAPE do professor
+email       | Simples   | Texto     | 50        | E-mail utilizado pelo professor para cadastro
+is_verified | Simples   | Booleano  | -         | Um e-mail de confirmação de e-mail é enviado após o cadastro para o e-mail do professor. O atributo será **Verdadeiro** caso o professor
