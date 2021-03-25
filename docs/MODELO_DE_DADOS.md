@@ -56,3 +56,12 @@ username    | Determinante | Texto  | 20        | Nome do usuário
 nome        | Simples   | Texto     | 255       | Nome Completo do Usuário
 tipo        | Simples   | Caractere | 1         | Tipo do usuário: professor (P) ou aluno (A)
 senha       | Simples   | Texto     | 50        | Senha escolhida pelo usuário para efetuar login no sistema
+
+### Entidade: Aluno
+
+Atributo    | Classe    | Domínio   | Tamanho   | Descrição
+------------|-----------|-----------|-----------|----------
+**id**      | Determinante | Numérico | -       | Chave única gerada pelo BD
+username    | Determinante | Texto  | 20        | Nome do usuário
+matricula   | Determinante | Texto  | 10        | Número da Matrícula do aluno
+is_active   | Simples   | Booleano  | -         | **Verdadeiro** se aluno está ativo (aceito pelo professor)  ou **Falso** se aluno está inativo (não aceito ou rejeitado pelo professor)
