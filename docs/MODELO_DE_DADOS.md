@@ -75,3 +75,17 @@ username    | Determinante | Texto  | 20        | Nome do usuário
 siape       | Determinante | Texto  | 8         | Número do SIAPE do professor
 email       | Simples   | Texto     | 50        | E-mail utilizado pelo professor para cadastro
 is_verified | Simples   | Booleano  | -         | Um e-mail de confirmação de e-mail é enviado após o cadastro para o e-mail do professor. O atributo será **Verdadeiro** caso o professor tenha confirmado o cadastro por e-mail ou **Falso** caso ele ainda não tenha feito essa confirmação.
+
+### Entidade: Supermercado
+
+Atributo    | Classe    | Domínio   | Tamanho   | Descrição
+------------|-----------|-----------|-----------|----------
+**id**      | Determinante | Numérico | -       | Chave única gerada pelo BD
+nome_sup    | Determinante | Texto  | 255       | Nome do Supermercado
+siape       | Simples   | Numérico  | 8         | Número do SIAPE do professor. Identifica o usuário que fez o cadastro do supermercado
+rua         | Simples   | Texto     | 100       | Rua onde está localizado o  supermercado
+numero      | Simples   | Numérico  | -         | Número do estabelecimento onde está localizado o  supermercado
+bairro      | Simples   | Texto     | 100       | Bairro onde está localizado o  supermercado
+cep         | Simples   | Texto     | 8         | CEP da cidade onde está localizado o  supermercado
+cidade      | Simples   | Texto     | 100       | Cidade onde está localizado o  supermercado
+estado      | Simples   | Texto     | 2         | Sigla do Estado onde está localizado o  supermercado
