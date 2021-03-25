@@ -44,3 +44,15 @@ Data        | Versão    | Descrição             | Autor
 ## Modelo de Dados
 
 ![Modelo de Dados](https://github.com/pet-course/cesta-basica-caico/blob/main/docs/modelos/Modelo%20de%20Dados.jpg)
+
+## Dicionário de Dados
+
+### Entidade: Usuário
+
+Atributo    | Classe    | Domínio   | Tamanho   | Descrição
+------------|-----------|-----------|-----------|----------
+**id**      | Determinante | Numérico | -       | Chave única gerada pelo BD
+username    | Determinante | Texto  | 20        | Nome do usuário
+nome        | Simples   | Texto     | 255       | Nome Completo do Usuário
+tipo        | Simples   | Caractere | 1         | Tipo do usuário: professor (P) ou aluno (A)
+senha       | Simples   | Texto     | 50        | Senha escolhida pelo usuário para efetuar login no sistema
