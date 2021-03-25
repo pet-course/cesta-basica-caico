@@ -117,3 +117,14 @@ Atributo    | Classe    | Domínio   | Tamanho   | Descrição
 nome_prod   | Determinante | Texto  | 100       | Nome do produto
 matricula   | Determinante | Numérico | 10      | Número da matrícula do aluno. Identifica o usuário que fez o cadastro do novo produto na pesquisa. Só esse aluno terá acesso ao produto cadastrado.
 marca       | Simples   | Texto     | 50        | Marca ou Tipo do produto cadastrado pelo aluno
+
+### Entidade: Pesquisa
+
+Atributo    | Classe    | Domínio   | Tamanho   | Descrição
+------------|-----------|-----------|-----------|----------
+**id**      | Determinante | Numérico | -       | Chave única gerada pelo BD
+id_pesquisa | Determinante | Numérico | -       | Identificador da pesquisa realizada pelo aluno
+username    | Determinante | Texto  | 20        | Nome do usuário
+nome_sup    | Determinante | Texto  | 255       | Nome do Supermercado onde a pesquisa foi realizada
+data_realizacao | Simples | Data    | -         | Data de realização da pesquisa realizada.
+produtos    | Multivalorado | ArrayList | -     | Lista de Produtos adicionados na pesquisa
