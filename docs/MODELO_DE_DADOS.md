@@ -156,4 +156,3 @@ Tabelas internas | it_*         | it_alunos
 2. Rodrigues, Joel. Modelo Entidade Relacionamento (MER) e Diagrama Entidade-Relacionamento (DER). Disponível em: <https://www.devmedia.com.br/modelo-entidade-relacionamento-mer-e-diagrama-entidade-relacionamento-der/14332>. Acesso em 14 ago 2018.
 
 3. Lucidchart. O que é um diagrama entidade-relacionamento?. Disponível em: <https://www.lucidchart.com/pages/pt/o-que-e-diagrama-entidade-relacionamento>. Acesso em 15 ago 2018.
-
