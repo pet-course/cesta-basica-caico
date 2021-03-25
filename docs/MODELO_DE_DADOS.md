@@ -74,4 +74,4 @@ Atributo    | Classe    | Domínio   | Tamanho   | Descrição
 username    | Determinante | Texto  | 20        | Nome do usuário
 siape       | Determinante | Texto  | 8         | Número do SIAPE do professor
 email       | Simples   | Texto     | 50        | E-mail utilizado pelo professor para cadastro
-is_verified | Simples   | Booleano  | -         | Um e-mail de confirmação de e-mail é enviado após o cadastro para o e-mail do professor. O atributo será **Verdadeiro** caso o professor
+is_verified | Simples   | Booleano  | -         | Um e-mail de confirmação de e-mail é enviado após o cadastro para o e-mail do professor. O atributo será **Verdadeiro** caso o professor tenha confirmado o cadastro por e-mail ou **Falso** caso ele ainda não tenha feito essa confirmação.
