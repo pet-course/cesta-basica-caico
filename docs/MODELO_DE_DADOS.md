@@ -128,3 +128,14 @@ username    | Determinante | Texto  | 20        | Nome do usuário
 nome_sup    | Determinante | Texto  | 255       | Nome do Supermercado onde a pesquisa foi realizada
 data_realizacao | Simples | Data    | -         | Data de realização da pesquisa realizada.
 produtos    | Multivalorado | ArrayList | -     | Lista de Produtos adicionados na pesquisa
+
+### Entidade: Log Ações
+
+Atributo    | Classe    | Domínio   | Tamanho   | Descrição
+------------|-----------|-----------|-----------|----------
+**id**      | Determinante | Numérico | -       | Chave única gerada pelo BD
+siape       | Determinante | Numérico | 8       | Número do SIAPE do professor. Identifica o usuário que fez a ação no banco de dados.
+nome        | Simples   | Texto     | 255       | Nome Completo do Usuário professor
+acao        | Simples   | Texto     | 255       | Descrição da ação realizada pelo usuário professor
+data        | Simples   | Data      | -         | Data em que a ação foi realizada
+hora        | Simples   | Data      | -         | Hora em que a ação foi realizada
