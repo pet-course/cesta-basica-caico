@@ -139,3 +139,12 @@ nome        | Simples   | Texto     | 255       | Nome Completo do Usuário prof
 acao        | Simples   | Texto     | 255       | Descrição da ação realizada pelo usuário professor
 data        | Simples   | Data      | -         | Data em que a ação foi realizada
 hora        | Simples   | Data      | -         | Hora em que a ação foi realizada
+
+## Padronização de Variáveis
+
+Tipo      | Padrão utilizado    | Exemplo
+----------|---------------------|--------
+Variáveis locais | lv_*         | lv_produto
+Variáveis globais | gv_*        | gv_username
+Constantes | cv_*               | cv_yes, cv_no
+Tabelas internas | it_*         | it_alunos
