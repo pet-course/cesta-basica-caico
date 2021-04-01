@@ -24,20 +24,20 @@
     Este documento tem como objetivo autorizar formalmente o início do projeto “Web-Site Cesta Básica Caicó” e contém informações necessárias para o entendimento do projeto, fornecendo uma visão macro do produto a ser desenvolvido.
 
 *Justificativa 
-    Tomando como base a pesquisa realizada pelos alunos da UFRN - Campus Caicó, onde visam buscar preços nos supermercados da referida cidade, foi notada a necessidade da implementação de um Web-Site, aplicação essa que auxiliará na geração de relatórios dos dados, visando a diminuição do trabalho para a contrução de relatórios precisos, visto que a pesquisa é mensal e todo mês eram necessário eforços para construção de tabelas e planilhas além de papeis impressos para realização de pesquisas nos supermercados, papeis esses que serão descontinuados na fase 2 do projeto, também podemos levar em consideração o bem estar dos próprios alunos, visto que não será mais necessário se preocupar com a grande quantidade de papéis utilizados para coleta dos dados.
+    Tomando como base as pesquisas realizadas pelos alunos da UFRN - Campus Caicó, onde visam buscar preços nos supermercados da referida cidade, foi notada a necessidade da implementação de um Web-Site, para auxiliará na geração de relatórios dos dados, visando a diminuição do trabalho para a contrução de relatórios precisos, visto que a pesquisa é mensal e todo mês é necessário eforços para construção de tabelas e planilhas além de papeis impressos para realização de pesquisas nos supermercados, subentendendo-se que esses papeis serão descontinuados na fase 2 do projeto, também podemos levar em consideração o bem estar dos próprios alunos, visto que não será mais necessário se preocupar com a grande quantidade de papéis utilizados para coleta dos dados.
 
 *Objetivos
-    Desenvolver um aplicativo Web e Mobile, para Android, que agilize as pesquisas realizadas pelos alunos bolsistas e facilite a transmissão dos dados obtidos para o professor e, consequentemente, agilize também a divulgação dos resultados para as partes interessadas.
+    Desenvolver um aplicativo Web e Mobile, para que seja possivél acessar tanto por um navegador quanto por um Smartphone, para agilizar as pesquisas realizadas pelos alunos bolsistas e facilitar a transmissão dos dados obtidos para o professor e, consequentemente, agilizar a divulgação desses resultados para as partes interessadas.
 
 *Benefícios 
-    Um dos benefícios é que não será mais necessário o professor aguardar a entrega dos pesquisas para iniciar os cálculos, pois o mesmo terá acesso no momento em que elas forem finalizadas pelos alunos. Outro benefício que se espera é que o professor também possa realizar as pesquisas e consultar as existentes, além de gerar um relatório no excel sem ter a necessidade de repassar todos os dados para uma planilha.
+    Um dos benefícios é que não será mais necessário o professor aguardar a entrega das pesquisas para iniciar os cálculos, pois o mesmo terá acesso no momento em que elas forem finalizadas pelos alunos. Outro benefício que se espera é que o professor também possa realizar as pesquisas e consultar as pesquisas existentes, além de gerar um relatórios sem ter a necessidade de repassar todos os dados para uma planilha.
 
 *Produtos e principais requisitos
     * Fazer login de usuário
     * Cadastro de aluno, professor, supermercado, produto, marca e preço
     * Realizar Pesquisa
     * Solicitações de alunos
-    * Buscar pesquisas anteriores e  alunos
+    * Buscar pesquisas anteriores e alunos
     * Gerar relatório das pesquisas
     * Gerar planilha das pesquisas
 
@@ -49,23 +49,23 @@
 
 *Equipe do Projeto
 
-| Nome                            | Papel Desenpenhado | Especialidade              |
-| :-----------------------------: | :----------------: | :------------------------: |
-| Almir Miranda Ferreira          | Cliente            |                            |
-| Ana Paula                       | Desenvolvedora     | Diretora de Arte/Front-End |
-| Bruno Sousa                     | Desenvolvedor      | Secretário/Back-End Master |
-| Deivyson                        | Desenvolvedor      | Back-End/Testador          |
-| Gerson Nascimento Pereira       | Desenvolvedor      | Back-End                   |
-| Higor Stefany                   | Desenvolvedor      | Full-Stack                 |
-| Paulo Henrique Dantas           | Desenvolvedor      | Design/Front-End           |
-| Porfirio Amaro De Araújo Júnior | Desenvolvedor      | Full-Stack/ADM             |
-| Wanessa                         | Desenvolvedora     | Front-End Master           |
+| Nome                            | Papel Desenpenhado | Especialidade                |
+| :-----------------------------: | :----------------: | :--------------------------: |
+| Almir Miranda Ferreira          | Cliente            |                              |
+| Ana Paula                       | Desenvolvedora     | Diretora de Arte/Front-End   |
+| Bruno Sousa                     | Desenvolvedor      | Gestor de TI/Back-End Master |
+| Deivyson                        | Desenvolvedor      | Back-End/Testador            |
+| Gerson Nascimento Pereira       | Desenvolvedor      | Back-End/Testador            |
+| Higor Stefany                   | Desenvolvedor      | Full-Stack/Secretário        |
+| Paulo Henrique Dantas           | Desenvolvedor      | Design/Front-End             |
+| Porfirio Amaro De Araújo Júnior | Desenvolvedor      | Full-Stack/ADM               |
+| Wanessa                         | Desenvolvedora     | Front-End Master             |
 
 *Premissas
 
     - Todos os integrantes irão participar do desenvolvimento;
     - A empresa disponibilizará a infra-estrutura necessária para a equipe até a entrega do produto;
-    - Será feita uma análise pelo representante do cliente, Amarildo Lucena, a cada 15 dias para fins de avaliação.
+    - Será feita uma análise pelo cliente, Almir Miranda Ferreira, a cada 15 dias para fins de avaliação.
 
 *Restrições
 
@@ -99,14 +99,14 @@
 
 | Itens                           | Horas              | Valor Em (R$)              |
 | :-----------------------------: | :----------------: | :------------------------: |
-| Ana Paula                       | Desenvolvedora     | 1500.00                    |
-| Bruno Sousa                     | Desenvolvedor      | 1500.00                    |
-| Deivyson                        | Desenvolvedor      | 1500.00                    |
-| Gerson Nascimento Pereira       | Desenvolvedor      | 1500.00                    |
-| Higor Stefany                   | Desenvolvedor      | 1500.00                    |
-| Paulo Henrique Dantas           | Desenvolvedor      | 1500.00                    |
-| Porfirio Amaro De Araújo Júnior | Desenvolvedor      | 1500.00                    |
-| Wanessa                         | Desenvolvedora     | 1500.00                    |
+| Ana Paula                       | Desenvolvedora     | 400.00                     |
+| Bruno Sousa                     | Desenvolvedor      | 400.00                     |
+| Deivyson                        | Desenvolvedor      | Estagiário                 |
+| Gerson Nascimento Pereira       | Desenvolvedor      | 400.00                     |
+| Higor Stefany                   | Desenvolvedor      | 400.00                     |
+| Paulo Henrique Dantas           | Desenvolvedor      | 400.00                     |
+| Porfirio Amaro De Araújo Júnior | Desenvolvedor      | 400.00                     |
+| Wanessa                         | Desenvolvedora     | 400.00                     |
 
 
 *Aprovações
