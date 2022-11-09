@@ -19,7 +19,7 @@ Data        | Versão    | Descrição             | Autor
 
 ## Modelo Conceitual
 
-![Modelo Conceitual](https://github.com/pet-course/cesta-basica-caico/blob/main/docs/modelos/Modelo%20Conceitual.jpg)
+![Modelo Conceitual](https://github.com/pet-course/cesta-basica-caico/blob/main/docs/modelos/app_cesta_basica.png)
 
 ### Descrição das Entidades
 

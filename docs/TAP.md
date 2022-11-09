@@ -12,7 +12,7 @@
 ## Data de Atualização Do Documento
     24/03/2021
 
-### Institução
+## Institução
     Programa De Educação Tutorial (PET)
     
 ### Contato/Localização
@@ -20,19 +20,24 @@
     Contato: 84 3342-2238
     Bairro: Penedo
 
-*Objetivo do Documento
+* Objetivo do Documento
+
     Este documento tem como objetivo autorizar formalmente o início do projeto “Web-Site Cesta Básica Caicó” e contém informações necessárias para o entendimento do projeto, fornecendo uma visão macro do produto a ser desenvolvido.
 
-*Justificativa 
+* Justificativa 
+
     Tomando como base as pesquisas realizadas pelos alunos da UFRN - Campus Caicó, onde visam buscar preços nos supermercados da referida cidade, foi notada a necessidade da implementação de um Web-Site, para auxiliará na geração de relatórios dos dados, visando a diminuição do trabalho para a contrução de relatórios precisos, visto que a pesquisa é mensal e todo mês é necessário eforços para construção de tabelas e planilhas além de papeis impressos para realização de pesquisas nos supermercados, subentendendo-se que esses papeis serão descontinuados na fase 2 do projeto, também podemos levar em consideração o bem estar dos próprios alunos, visto que não será mais necessário se preocupar com a grande quantidade de papéis utilizados para coleta dos dados.
 
-*Objetivos
+* Objetivos
+
     Desenvolver um aplicativo Web e Mobile, para que seja possivél acessar tanto por um navegador quanto por um Smartphone, para agilizar as pesquisas realizadas pelos alunos bolsistas e facilitar a transmissão dos dados obtidos para o professor e, consequentemente, agilizar a divulgação desses resultados para as partes interessadas.
 
-*Benefícios 
+* Benefícios 
+
     Um dos benefícios é que não será mais necessário o professor aguardar a entrega das pesquisas para iniciar os cálculos, pois o mesmo terá acesso no momento em que elas forem finalizadas pelos alunos. Outro benefício que se espera é que o professor também possa realizar as pesquisas e consultar as pesquisas existentes, além de gerar um relatórios sem ter a necessidade de repassar todos os dados para uma planilha.
 
-*Produtos e principais requisitos
+* Produtos e principais requisitos
+
     * Fazer login de usuário
     * Cadastro de aluno, professor, supermercado, produto, marca e preço
     * Realizar Pesquisa
@@ -41,39 +46,39 @@
     * Gerar relatório das pesquisas
     * Gerar planilha das pesquisas
 
-*Stakeholders
+* Stakeholders
 
-| Nome          | Externos (S/N)   | Relacionamento com Projeto | E-mail                     |
-| :-----------: | :--------------: | :------------------------: | :------------------------: |
-| Almir Miranda | N                | Cliente                    | almirmirandaufrn@gmail.com |
+Nome          | Externos (S/N)   | Relacionamento com Projeto | E-mail                    
+:-----------: | :--------------: | :------------------------: | :------------------------:
+Almir Miranda | N                | Cliente                    | almirmirandaufrn@gmail.com
 
-*Equipe do Projeto
+* Equipe do Projeto
 
-| Nome                            | Papel Desenpenhado | Especialidade                |
-| :-----------------------------: | :----------------: | :--------------------------: |
-| Almir Miranda Ferreira          | Cliente            |                              |
-| Ana Paula                       | Desenvolvedora     | Diretora de Arte/Front-End   |
-| Bruno Sousa                     | Desenvolvedor      | Gestor de TI/Back-End Master |
-| Deivyson                        | Desenvolvedor      | Back-End/Testador            |
-| Gerson Nascimento Pereira       | Desenvolvedor      | Back-End/Testador            |
-| Higor Stefany                   | Desenvolvedor      | Full-Stack/Secretário        |
-| Paulo Henrique Dantas           | Desenvolvedor      | Design/Front-End             |
-| Porfirio Amaro De Araújo Júnior | Desenvolvedor      | Full-Stack/ADM               |
-| Wanessa                         | Desenvolvedora     | Front-End Master             |
+Nome                            | Papel Desenpenhado | Especialidade               
+:-----------------------------: | :----------------: | :--------------------------:
+Almir Miranda Ferreira          | Cliente            |                             
+Ana Paula                       | Desenvolvedora     | Diretora de Arte/Front-End  
+Bruno Sousa                     | Desenvolvedor      | Gestor de TI/Back-End Master
+Deivyson                        | Desenvolvedor      | Back-End/Testador           
+Gerson Nascimento Pereira       | Desenvolvedor      | Back-End/Testador           
+Higor Stefany                   | Desenvolvedor      | Full-Stack/Secretário       
+Paulo Henrique Dantas           | Desenvolvedor      | Design/Front-End            
+Porfirio Amaro De Araújo Júnior | Desenvolvedor      | Full-Stack/ADM              
+Wanessa Bezerra                 | Desenvolvedora     | Front-End Master            
 
-*Premissas
+* Premissas
 
     - Todos os integrantes irão participar do desenvolvimento;
     - A empresa disponibilizará a infra-estrutura necessária para a equipe até a entrega do produto;
     - Será feita uma análise pelo cliente, Almir Miranda Ferreira, a cada 15 dias para fins de avaliação.
 
-*Restrições
+* Restrições
 
     - Tempo estipulado para entrega do projeto;
     - Número de integrantes;
     - Deve ser realizado apenas pela equipe interna do projeto.
 
-*Riscos
+* Riscos
 
     - Alguns integrantes da equipe não dominam as ferramentas em que o projeto será implementado, então tendo em vista esse risco, foram iniciados os estudos imediatamente;
     - Conflito de ideias entre os integrantes, então, todos devem entrar em um acordo que favoreça a todos e não prejudique o projeto;
@@ -83,40 +88,40 @@
     - Saída de membros da equipe, quando houver, o gerente deve direcionar as atividades da pessoa que sair para os demais membros da equipe de forma a não prejudicar as datas do cronograma nem sobrecarregar o trabalho de cada desenvolvedor.
     - Prazo com tempo limitado.
 
-*Marcos
+* Marcos
 
-| Marcos                             | Previsão   |
-| :--------------------------------: | :--------: |
-| Entrega da Documentação do projeto | 05/04/2021 |
-| Início da implementação da 1° Fase | 07/04/2021 |
-| Fim da implementação da 1° Fase    | 05/11/2021 |
-| Início da implementação da 2° Fase | 08/11/2021 |
-| Fim da implementação da 2° Fase    | 09/06/2022 |
-| Entrega do projeto                 | 10/06/2022 |
+Marcos                             | Previsão  
+:--------------------------------: | :--------:
+Entrega da Documentação do projeto | 05/04/2021
+Início da implementação da 1° Fase | 07/04/2021
+Fim da implementação da 1° Fase    | 05/11/2021
+Início da implementação da 2° Fase | 08/11/2021
+Fim da implementação da 2° Fase    | 09/06/2022
+Entrega do projeto                 | 10/06/2022
 
-*Orçamento do Projeto
-    A tabela de custos abaixo foi elaborada considerando que cada recurso exerce suas atividades por R$ 9/hora e dedica-se 6h/semana no projeto.
+* Orçamento do Projeto
+    A tabela de custos abaixo foi elaborada considerando que a remuneração por cada membro será mensal por exercer suas atividades.
 
-| Itens                           | Horas              | Valor Em (R$)              |
-| :-----------------------------: | :----------------: | :------------------------: |
-| Ana Paula                       | Desenvolvedora     | 400.00                     |
-| Bruno Sousa                     | Desenvolvedor      | 400.00                     |
-| Deivyson                        | Desenvolvedor      | Estagiário                 |
-| Gerson Nascimento Pereira       | Desenvolvedor      | 400.00                     |
-| Higor Stefany                   | Desenvolvedor      | 400.00                     |
-| Paulo Henrique Dantas           | Desenvolvedor      | 400.00                     |
-| Porfirio Amaro De Araújo Júnior | Desenvolvedor      | 400.00                     |
-| Wanessa                         | Desenvolvedora     | 400.00                     |
+Itens                           | Horas              | Valor Em (R$)/(Mês)             
+:-----------------------------: | :----------------: | :------------------------:
+Ana Paula                       | Desenvolvedora     | 400.00                    
+Bruno Sousa                     | Desenvolvedor      | 400.00                    
+Deivyson                        | Estagiário         | 0.00                      
+Gerson Nascimento Pereira       | Desenvolvedor      | 400.00                    
+Higor Stefany                   | Desenvolvedor      | 400.00                    
+Paulo Henrique Dantas           | Desenvolvedor      | 400.00                    
+Porfirio Amaro De Araújo Júnior | Desenvolvedor      | 400.00                    
+Wanessa Bezerra                 | Desenvolvedora     | 400.00                    
 
 
-*Aprovações
+* Aprovações
 
-| Responsável                                              | Data        | Aprovado(S/N)     |
-| :------------------------------------------------------: | :---------: | :---------------: |
-| Porfirio Amaro De Araújo Júnior e Almir Miranda Ferreira | 05/04/2021  |                   |
-| Porfirio Amaro De Araújo Júnior e Almir Miranda Ferreira | 05/11/2021  |                   |
-| Porfirio Amaro De Araújo Júnior e Almir Miranda Ferreira | 09/06/2022  |                   |
-| Porfirio Amaro De araújo Júnior e Almir Miranda Ferreira | 10/06/2022  |                   |
-| ------------------------------------------------------------------------------------------ |
-| Observações: A entrega só será aprovada após o comum acordo do gerente com o cliente.      | 
+Responsável                                              | Data        | Aprovado(S/N)    
+:------------------------------------------------------: | :---------: | :---------------:
+Porfirio Amaro De Araújo Júnior e Almir Miranda Ferreira | 05/04/2021  |                  
+Porfirio Amaro De Araújo Júnior e Almir Miranda Ferreira | 05/11/2021  |                  
+Porfirio Amaro De Araújo Júnior e Almir Miranda Ferreira | 09/06/2022  |                  
+Porfirio Amaro De araújo Júnior e Almir Miranda Ferreira | 10/06/2022  |                  
+------------------------------------------------------------------------------------------
+Observações: A entrega só será aprovada após o comum acordo do gerente com o cliente.      
 
